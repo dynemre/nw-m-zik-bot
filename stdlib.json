@@ -1,0 +1,5 @@
+{
+  "name": "dynadc/basic-discord-example",
+  "timeout": 10000,
+  "connector": false
+}
